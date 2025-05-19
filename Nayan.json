@@ -9,7 +9,7 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "mahmud-bot",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
@@ -17,7 +17,7 @@
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "1221270017907854",
     ""
   ],
   "OWNER": ["100000959749712"], 
